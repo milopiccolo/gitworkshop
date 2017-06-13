@@ -1,0 +1,5 @@
+When you first start using git, you should tell it your name and email:
+
+git config --global user.name <name>
+git config --global user.email <email>
+
